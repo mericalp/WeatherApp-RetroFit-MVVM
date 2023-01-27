@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min temp</string>
+    <string name="temperature">24ºC</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="update_at">Update at</string>
+    <string name="city">Mersin</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="time">5:30am</string>
+    <string name="sunset">Sunset</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_value">4:4</string>
+    <string name="image_referring_to_climate">Climate Related Image</string>
+    <string name="button_week">7 Dias</string>
+    <string name="button_today">Hoje</string>
+    <string name="type_your_city">ENTER YOUR CITY</string>
+    <string name="button_search">button_search</string>
+    <string name="today">Today</string>
+    <string name="week">Week</string>
+    <string name="forecast_for_week">View full reports</string>
+    <string name="welcome">Welcome</string>
+    <string name="description_onboarding">The idea behind our app is that you can stay informed about the weather in the place you choose.</string>
+</resources>
